@@ -1,0 +1,6 @@
+﻿  Test1.cpp
+  sample.cpp
+  コードを生成中...
+c:\users\user\source\repos\project1\project1\sample.cpp(33): warning C4715: 'Dircheck': 値を返さないコントロール パスがあります。
+  Project1.vcxproj -> C:\Users\user\source\repos\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\user\source\repos\Project1\Debug\Project1.pdb (Partial PDB)
